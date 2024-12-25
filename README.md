@@ -41,6 +41,14 @@
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />&nbsp
 </div>
 
+<h3 align="center">:cloud: Cloud Technologies :cloud:</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" />&nbsp
+</div>
+
 <h3 align="center">:computer: Operating Systems :computer:</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Linux Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp
@@ -49,6 +57,7 @@
   <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Loki Linux-FF6347?style=for-the-badge&logo=linux&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp
 </div>
 
 <h3 align="center">🛠 Tools 🛠</h3>
