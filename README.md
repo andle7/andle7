@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" src="https://user-images.githubusercontent.com/101302590/230821479-ae70b5db-f242-4da1-bda2-84ae606e2e93.gif" />
+  <img width="150" src="https://github.com/user-attachments/assets/653d0a54-41e6-492b-8104-6d7ebc1bfad7" alt="Growlithes" />
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=&height=40&fontSize=60&desc=Welcome%20To%20andle7%20Github&descAlignY=75&descAlign=60&fontColor=d6ace6)
