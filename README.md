@@ -4,6 +4,25 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=&height=40&fontSize=60&desc=Welcome%20To%20andle7%20Github&descAlignY=75&descAlign=60&fontColor=d6ace6)
 
+<div align="center" style="display: flex; justify-content: space-around;">
+  <div style="width: 45%; text-align: center; border: 1px solid #555; border-radius: 10px; padding: 10px; margin: 5px;">
+    <h2>Most Used Languages</h2>
+    <p>Java 67.46%</p>
+    <p>CSS 30.34%</p>
+    <p>JavaScript 1.76%</p>
+    <p>SCSS 0.26%</p>
+    <p>HTML 0.17%</p>
+  </div>
+  <div style="width: 45%; text-align: center; border: 1px solid #555; border-radius: 10px; padding: 10px; margin: 5px;">
+    <h2>andle's GitHub Stats</h2>
+    <p>Total Stars Earned: 2</p>
+    <p>Total Commits (2024): 987</p>
+    <p>Total PRs: 60</p>
+    <p>Total Issues: 11</p>
+    <p>Contributed to (last year): 6</p>
+  </div>
+</div>
+
 <div align="center">
   <a href="https://github.com/andle7">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andle7&layout=compact&theme=highcontrast" />
