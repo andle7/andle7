@@ -6,10 +6,11 @@
 
 <h3 align="center">:rocket: Tech Stack :rocket:</h3>
 <div align="center">
-  <div style="display: inline-flex; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/0c7234a6-1c0e-4af5-8f21-56168fd00669" alt="Java Logo" style="height: 20px; margin-right: 5px;">
-  <img src="https://img.shields.io/badge/java-orange.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
+  <div style="display: inline-flex; align-items: center; background-color: #FF6F00; border-radius: 5px; padding: 5px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+  <img src="path_to_java_logo.png" alt="Java Logo" style="height: 30px; margin-right: 8px;">
+  <span style="color: white; font-weight: bold; font-size: 18px; font-family: Arial, sans-serif;">JAVA</span>
 </div>
+
 
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
