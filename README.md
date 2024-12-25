@@ -6,7 +6,7 @@
 
 <h3 align="center">:rocket: Tech Stack :rocket:</h3>
 <div align="center">
- <div style="display: inline-flex; align-items: center; background-color: #FF6F00; border-radius: 4px; padding: 5px 10px; font-family: Arial, sans-serif; font-weight: bold; color: white; font-size: 14px; text-transform: uppercase;">
+ <div style="display: inline-flex; align-items: center; background-color: #FF6F00; border-radius: 4px; padding: 5px 10px; font-family: Arial, sans-serif; font-weight: bold; color: white; font-size: 14px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Duke_%28Java_mascot%29.png" alt="Java Duke" style="height: 20px; margin-right: 8px;">
   <span>Java</span>
 </div>
