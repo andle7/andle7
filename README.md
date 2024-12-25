@@ -50,11 +50,13 @@
   <img src="https://img.shields.io/badge/OpenCV-11557C?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/OpenVidu-000000?style=for-the-badge&logo=openvidu&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Kurento-0000FF?style=for-the-badge&logo=kurento&logoColor=white" />&nbsp
 </div>
 
 <h3 align="center">:cloud: Cloud Technologies :cloud:</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/AMAZON AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" />&nbsp
@@ -102,4 +104,11 @@
   <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+</div>
+
+<h3 align="center">:email: Contact :email:</h3>
+<div align="center">
+  <a href="mailto:hbshin1809@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
+  </a>
 </div>
