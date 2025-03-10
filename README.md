@@ -5,12 +5,13 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=&height=40&fontSize=60&desc=Welcome%20To%20andle7%20Github&descAlignY=75&descAlign=60&fontColor=d6ace6)
 
 <div align="center">
-  <a href="https://github.com/andle7">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andle7&layout=compact&theme=highcontrast" />
-  </a>
-  <a href="https://github.com/andle7">
-    <img src="https://github-readme-stats.vercel.app/api?username=andle7&show_icons=true&theme=highcontrast" />
-  </a>
+ <a href="https://github.com/andle7">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andle7&layout=compact&theme=highcontrast&token=${{ secrets.GIT_TOKEN }}" />
+</a>
+<a href="https://github.com/andle7">
+  <img src="https://github-readme-stats.vercel.app/api?username=andle7&show_icons=true&theme=highcontrast&token=${{ secrets.GIT_TOKEN }}" />
+</a>
+
 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andle7&theme=highcontrast)
 </div>
